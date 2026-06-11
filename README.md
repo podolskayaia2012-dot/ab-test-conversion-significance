@@ -17,6 +17,18 @@ This project focuses on evaluating the results of an A/B test conducted for a mo
 * **Data Visualization:** Matplotlib, Seaborn
 * **Environment:** Jupyter Notebook
 
+
+---
+
+## 📁 Repository Structure
+
+This repository contains all the necessary data, source code, and deliverables for the A/B test analysis:
+
+* 📄 **`Analysis and presentation of test results - Python code.ipynb`** — The primary Jupyter Notebook containing the full data pipeline, including data cleaning, exploratory data analysis (EDA), statistical significance calculations (Z-test), and data visualizations.
+* 📕 **`Analysis and presentation of test results.pdf`** — An executive business presentation tailored for stakeholders, highlighting key insights, visual metrics charts, and final revenue-driving recommendations.
+* 📊 **`ab_test_data_initial_data.csv`** — The initial raw dataset containing the A/B test experimental logs (sample user cohorts, absolute conversion numbers, and payment indicators).
+* 📝 **`README.md`** — Project documentation featuring the setup description, tech stack details, key analysis workflow steps, and direct navigation links.
+
 ---
 
 ## 🚀 Key Steps & Analysis Workflow
