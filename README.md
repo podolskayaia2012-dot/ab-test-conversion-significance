@@ -1,5 +1,3 @@
-# AB Test Conversion Significance
-
 # A/B Test Results Evaluation: Subscription Pricing Analysis 📊
 
 ## 📋 Project Overview
