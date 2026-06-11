@@ -47,6 +47,7 @@ This project focuses on evaluating the results of an A/B test conducted for a mo
 * **Business Deliverable:** A comprehensive executive presentation summarizing the findings.
 
 💻 **[View Python Analysis & Code Notebook](https://github.com/podolskayaia2012-dot/ab-test-conversion-significance/blob/main/Analysis%20and%20presentation%20of%20test%20results%20-%20Python%20code.ipynb)**
+
 📦 **[Download Full PDF Presentation with Insights & Recommendations](https://github.com/podolskayaia2012-dot/ab-test-conversion-significance/blob/main/Analysis%20and%20presentation%20of%20test%20results.pdf)**
 ---
 
